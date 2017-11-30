@@ -24,6 +24,7 @@ the chatroom.
 
  Loïc Calvy
  *
+ ![Loic Calvy](public/loic-calvy.png)
  *
 
  PaulWSF
