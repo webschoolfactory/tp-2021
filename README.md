@@ -78,4 +78,3 @@ the chatroom.
  *
  ![Adley Salabi] (public/SalabiAdleyPetit.jpg)
  *
- 
