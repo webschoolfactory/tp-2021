@@ -79,6 +79,7 @@ the chatroom.
 
  EmmaSalvi
  *
+ ![Emma SALVI](public/SALVI-Emma.jpg)
  *
 
  AdleySlbi
