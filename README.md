@@ -56,6 +56,7 @@ the chatroom.
 
  Cyrille Guiot-Guillin  CyrilleGG
  *
+ ![Cyrille Guiot-Guillin](public/img_fjords.jpg)
  *
 
  EveWSF
