@@ -43,6 +43,7 @@ the chatroom.
 
  Nicolas Resmi  NicolasResmi
  *
+ ![Nicolas Resmi](public/NicolasR.png)
  *
 
  maximeschneider1
