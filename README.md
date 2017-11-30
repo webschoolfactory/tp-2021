@@ -64,6 +64,7 @@ the chatroom.
 
  Maxime Groff  Ludion33
  *
+ ![MaximeGroff](public/maxime_groff.png)
  *
 
  MathieuCeren
