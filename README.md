@@ -28,6 +28,7 @@ the chatroom.
 
  PaulWSF
  *
+ ![Paul Bréard](public/paul.png)
  *
 
  pierrelh
