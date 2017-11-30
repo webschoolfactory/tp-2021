@@ -37,6 +37,8 @@ the chatroom.
 
  louisl98
  *
+ ![Louis Laugier](public/Louis.jpg)
+
  *
 
  Nicolas Resmi  NicolasResmi
