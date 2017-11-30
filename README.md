@@ -76,5 +76,5 @@ the chatroom.
 
  AdleySlbi
  *
- ![Adley Salabi] (public/SalabiAdleyPetit.jpg)
+ ![Adley Salabi](public/SalabiAdleyPetit.jpg)
  *
