@@ -62,11 +62,12 @@ the chatroom.
 
  Cyrille Guiot-Guillin  CyrilleGG
  *
+ ![Cyrille Guiot-Guillin](public/cyrille.jpg)
  *
 
  EveWSF
  *
- ![EveWSF](public/EveDG.png)
+ ![EveWSF](public/EveDG.JPG)
  *
 
  Maxime Groff  Ludion33
@@ -76,7 +77,7 @@ the chatroom.
 
  MathieuCeren
  *
-  ![Mathieu Ceren](public/mathieuc.png)
+  ![Mathieu Ceren](public/mathieuc.jpg)
  *
 
  EmmaSalvi
