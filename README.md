@@ -62,6 +62,7 @@ the chatroom.
 
  Cyrille Guiot-Guillin  CyrilleGG
  *
+ ![Cyrille Guiot-Guillin](public/cyrille.jpg)
  *
 
  EveWSF
