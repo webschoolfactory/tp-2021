@@ -52,6 +52,7 @@ the chatroom.
 
  AlexisVH97
  *
+ ![Alexis VAN HOORDE](public/Alexis_VanHoorde.jpg)
  *
 
  RayanBassetti
