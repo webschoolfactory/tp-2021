@@ -68,6 +68,7 @@ the chatroom.
 
  MathieuCeren
  *
+  ![Mathieu Ceren](public/mathieuc.png)
  *
 
  EmmaSalvi
