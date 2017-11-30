@@ -66,7 +66,7 @@ the chatroom.
 
  EveWSF
  *
- ![EveWSF](public/EveDG.png)
+ ![EveWSF](public/EveDG.JPG)
  *
 
  Maxime Groff  Ludion33
